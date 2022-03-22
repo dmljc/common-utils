@@ -1,4 +1,5 @@
-import { flattenDeep2 } from '@/utils/flatten';
+
+import { flattenDeep2 } from '@/utils/arrar-flatten';
 
 function App() {
     const arr = [1, 2, 'a', true, ['hello', 33, [undefined, false, '0']]];
